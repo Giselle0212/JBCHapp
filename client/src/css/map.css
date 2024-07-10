@@ -1,0 +1,34 @@
+.infoContainer
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+    text-align: center;
+}
+.tittleInfoContainer
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.infoTittle
+{
+    color: #151D22;
+    font-family: "Mplus 1p";
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.verseFont
+{
+    color: #3eacd3;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 100%;
+    
+}
