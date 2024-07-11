@@ -14,5 +14,7 @@ require('./Routes/Attendee_routes')(app)
 
 require('./Routes/counselling_routes')(app)
 
+require('./Routes/Admin_Routes')(app)
+
 // Start the server
 app.listen(PORT, () => console.log(`>> server up on ${PORT}`));
